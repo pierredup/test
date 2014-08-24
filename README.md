@@ -1,4 +1,4 @@
 test
 ====
 
-Test Repository
+Test Repository - For testing purposes only
